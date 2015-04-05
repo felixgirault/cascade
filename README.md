@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```sh
-composer install fg/cascade
+composer require fg/cascade
 ```
 
 Usage
