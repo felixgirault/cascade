@@ -2,7 +2,7 @@
 	"name": "fg/cascade",
 	"type": "library",
 	"description": "A lightweight API to filter values.",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"authors": [{
 		"name": "Félix Girault",
 		"email": "felix.girault@gmail.com",
